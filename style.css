@@ -1,0 +1,175 @@
+/* CSS Document */
+.contenido{
+	width: 1200px;
+	margin: 0 auto;
+	text-align:center;
+	height: auto;
+	min-height:100%;
+}
+.form_login{
+text-align:center;
+}
+table.recomendacion{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:11px;
+    color:FFF;
+}
+.recomendacion span{
+	color:#66FF66;
+}
+.recomendacion i{
+	color:#FF0000;
+}
+@font-face
+{
+font-family: 'Imfashion';
+src: url('fonts/im.ttf'),
+     url('fonts/im.eot');
+}
+@font-face
+{
+font-family: 'calen';
+src: url('fonts/calen.ttf'),
+     url('fonts/calen.eot');
+}
+input[type="submit"]{
+	background:#FFB0D8;
+	border:1px solid #FF66FF;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#000000;
+	padding:3px;
+	padding-left:10px;
+	padding-right:10px;
+}
+input[type="submit"]:hover{
+	background:#FF66CC;
+	border:1px solid #FF0066;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#FFFFFF;
+	padding:3px;
+	padding-left:10px;
+	padding-right:10px;
+}
+input[type="button"]{
+	background:#FFB0D8;
+	border:1px solid #FF66FF;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#000000;
+	padding:3px;
+	padding-left:10px;
+	padding-right:10px;
+}
+input[type="button"]:hover{
+	background:#FF66CC;
+	border:1px solid #FF0066;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#FFFFFF;
+	padding:3px;
+	padding-left:10px;
+	padding-right:10px;
+}
+#header{
+	align: center;
+	width: "500px";
+	text-align:center;
+	
+}
+.formulario_registro{
+	text-align:center;
+}
+.footer{
+	padding-bottom:20px;
+	margin-bottom:20px;
+	align:center;
+}
+.form_login{
+	float:left;
+	text-align:center;
+	margin-top:40px;
+	padding:40px 100px 0px 120px;
+}
+.form_registro{
+	text-align:center;
+	margin-top:0px auto;
+	padding:40px 300px 0px 300px;
+}
+.registrarse{
+	float:left;
+	text-align:center;
+	margin-top:40px;
+	padding:40px 50px 0px 50px;
+}
+.button{
+	width:85px;
+	height:85px;
+	background:url(imagenes/boton.png) 0px 0px;
+	border:none;
+	font-family:Verdana;
+	font-size-adjust:inherit;
+	color:#FFFFFF;
+	}
+	
+.buscador{
+	text-align:center;
+}
+.button:hover{
+	width:85px;
+	height:85px;
+	background:url(imagenes/boton.png) 0px -85px;
+	border:none
+	}
+body{
+	background-color:#000000;
+    margin: 0 auto;
+	text-align:center;
+	font-size: 14px;
+	font-family: verdana;
+	color:  #FFF;
+}
+.link_estilista{
+	margin-left:10px;
+	float:left;
+	text-align:center;
+	background:url(imagenes/estilista.png) no-repeat;
+	width:350px;
+	height:400px;
+}
+.link_anuncios{
+	float:left;
+	text-align:center;
+	background:url(imagenes/anuncios.png) no-repeat;
+	width:350px;
+	height:400px;	
+}
+.link_buscar{
+	float:left;
+	text-align:center;
+	background:url(imagenes/peluqueria.png) no-repeat;
+	width:350px;
+	height:400px;
+}
+.link_estilista:hover{
+	background:url(imagenes/estilista2.png) no-repeat;
+	cursor:pointer;
+	width:350px;
+	float:left;
+	text-align:center;
+}
+.link_buscar:hover{
+	background:url(imagenes/peluqueria2.png) no-repeat;
+	cursor:pointer;
+	width:350px;
+	float:left;
+	text-align:center;
+}
+.link_anuncios:hover{
+	background:url(imagenes/anuncios2.png) no-repeat;
+	cursor:pointer;
+	width:350px;
+	float:left;
+	text-align:center;
+}

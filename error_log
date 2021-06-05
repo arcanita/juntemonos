@@ -1,0 +1,18 @@
+
+[10-Mar-2021 14:24:04 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/cuandono64/public_html/index.php on line 116
+[10-Mar-2021 14:24:04 UTC] PHP Warning:  preg_replace(): No ending delimiter '.' found in /home/cuandono64/public_html/index.php on line 117
+[10-Mar-2021 14:24:04 UTC] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/cuandono64/public_html/index.php on line 118
+[10-Mar-2021 14:24:04 UTC] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cuandono64/public_html/index.php on line 118
+[10-Mar-2021 14:24:31 UTC] PHP Warning:  preg_replace(): Unknown modifier ']' in /home/cuandono64/public_html/index.php on line 116
+[10-Mar-2021 14:24:31 UTC] PHP Warning:  preg_replace(): No ending delimiter '.' found in /home/cuandono64/public_html/index.php on line 117
+[10-Mar-2021 14:24:31 UTC] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/cuandono64/public_html/index.php on line 118
+[10-Mar-2021 14:24:31 UTC] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cuandono64/public_html/index.php on line 118
+[10-Mar-2021 14:29:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/cuandono64/public_html/procesar_login.php on line 2
+[10-Mar-2021 14:29:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/cuandono64/public_html/procesar_login.php:11
+Stack trace:
+#0 /home/cuandono64/public_html/index.php(116): include()
+#1 {main}
+  thrown in /home/cuandono64/public_html/procesar_login.php on line 11
+[14-Mar-2021 22:53:30 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/cuandono64/public_html/procesar_login.php on line 33
+[14-Mar-2021 22:54:11 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/cuandono64/public_html/procesar_login.php on line 33
+[14-Mar-2021 22:54:15 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/cuandono64/public_html/procesar_login.php on line 33
